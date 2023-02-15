@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+	#navbar {
+		position: absolute;
+		left: 0px;
+	}
+	body {
+		position: relative;
+	}
+}
